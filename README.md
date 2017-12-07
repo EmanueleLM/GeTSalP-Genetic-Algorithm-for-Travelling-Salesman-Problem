@@ -1,5 +1,5 @@
-# GeTSalP-Genetic-Algorithm-for-Travelling-Salesman-Problem
-Genetic approach to the TSP problem:
+# Genetic Travel: a genetic algorithm for the Travelling-Salesman-Problem (TSP)
+Description of the project: 
 
 - tournament selection, ordered crossover, ordered mutation;
 - random graph generator (using a module from SAAP repo*); 
